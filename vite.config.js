@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/api': 'https://zenquotes.io', // Proxy requests from /api to ZenQuotes API
+      '/api': 'https://zenquotes.io', 
     },
   },
 })
