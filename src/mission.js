@@ -1,4 +1,4 @@
-export const missionStatement = `At Wellness for All, we believe that everyone deserves access to quality healthcare, no matter their background, location, or circumstances. Yet, millions face barriers that prevent them from receiving the care they need.
+export const missionStatement = `At Care Without Barriers, we believe that everyone deserves access to quality healthcare, no matter their background, location, or circumstances. Yet, millions face barriers that prevent them from receiving the care they need.
 
 Healthcare disparities—inequalities in access, quality, and outcomes of healthcare—affect individuals and communities worldwide. These disparities stem from systemic challenges, including socioeconomic status, race, geographic location, and more.
 
