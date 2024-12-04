@@ -29,7 +29,7 @@ export const KFF = 'https://www.kff.org/policy-watch/health-disparities-symptom-
 
 
 // Mental Health Page
-export const IntroPara = `Mental health is a critical aspect of overall well-being, influencing how individuals think, feel, and act in their daily lives. It affects emotional, psychological, and social functioning and plays a key role in how people handle stress, relate to others, and make decisions. Just as we take care of our physical health, it’s equally important to prioritize mental health. A strong mental foundation is vital not only for coping with life's challenges but also for leading a fulfilling and productive life. Mental health is also interconnected with physical health; poor mental health can contribute to chronic conditions, while good mental health can improve physical well-being. Taking proactive steps to support mental health can enhance quality of life and resilience in the face of difficulties.`
+export const IntroParaMH = `Mental health is a critical aspect of overall well-being, influencing how individuals think, feel, and act in their daily lives. It affects emotional, psychological, and social functioning and plays a key role in how people handle stress, relate to others, and make decisions. Just as we take care of our physical health, it’s equally important to prioritize mental health. A strong mental foundation is vital not only for coping with life's challenges but also for leading a fulfilling and productive life. Mental health is also interconnected with physical health; poor mental health can contribute to chronic conditions, while good mental health can improve physical well-being. Taking proactive steps to support mental health can enhance quality of life and resilience in the face of difficulties.`
 export const MHABOne = <ul>
 <li><strong>Physical Activity:</strong> Engage in regular exercise such as walking, yoga, or team sports to reduce stress, improve mood, and boost mental clarity.</li>
 <li><strong>Nutrition:</strong> Maintain a balanced diet, reduce sugar and caffeine, and stay hydrated to support both physical and mental well-being.</li>
@@ -48,3 +48,21 @@ export const MHABThree = <ul>
 </ul>
 export const MHImage = `https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25306523/GettyImages_1934506289.jpg?quality=90&strip=all&crop=0%2C4.7241647241647%2C100%2C90.551670551671&w=2400`
 
+// Phys Health Page
+export const PHImage = `https://images.squarespace-cdn.com/content/v1/55422388e4b08b5a0e277299/1504047067872-VFYYG7TXIV3QQPZKYWRP/image-asset.jpeg?format=1000w`
+export const PHABOne = <ul>
+<li><strong>Cardio Exercise:</strong> Engage in activities like walking, running, cycling, or swimming to improve cardiovascular health and stamina.</li>
+<li><strong>Strength Training:</strong> Incorporate resistance exercises like weightlifting or bodyweight exercises to build muscle mass and enhance bone health.</li>
+<li><strong>Flexibility:</strong> Stretch regularly or practice yoga to improve flexibility, reduce muscle tension, and prevent injuries.</li>
+</ul>
+export const PHABTwo = <ul>
+<li><strong>Balanced Diet:</strong> Focus on a variety of nutrient-dense foods, including fruits, vegetables, whole grains, lean proteins, and healthy fats.</li>
+<li><strong>Hydration:</strong> Drink plenty of water throughout the day to stay hydrated and support bodily functions.</li>
+<li><strong>Moderation:</strong> Avoid overindulging in processed foods, sugary snacks, and high-fat items to maintain a healthy weight and prevent chronic diseases.</li>
+</ul>
+export const PHABThree = <ul>
+<li><strong>Sleep Schedule:</strong> Stick to a regular sleep routine by going to bed and waking up at the same time every day.</li>
+<li><strong>Sleep Environment:</strong> Create a calm and dark sleep environment by minimizing noise and light exposure.</li>
+<li><strong>Rest and Recovery:</strong> Allow adequate rest between workouts to enable your body to repair and recover, which is essential for physical health.</li>
+</ul>
+export const IntroParaPH = `Physical health is the foundation of overall well-being, influencing everything from energy levels to emotional stability. Taking care of your body through regular exercise, balanced nutrition, adequate rest, and proper self-care is essential for maintaining a healthy lifestyle. Engaging in physical activities not only strengthens the body but also supports mental clarity, reduces stress, and helps prevent chronic diseases. By making physical health a priority, you can improve your quality of life, increase longevity, and enhance your ability to cope with the challenges of daily living. This page provides practical strategies for fostering and sustaining a healthy body, empowering you to take proactive steps toward better health.`
