@@ -6,4 +6,20 @@ This website aims to raise awareness about healthcare disparities, particularly 
 
 # Homepage
 ![Homepage](./src/assets/homepage.jpg)
+# Learn More Page
+![Learn More Page](./src/assets/lad.jpg)
+# Mental Health Page
+![Mental Health Page](./src/assets/mental.jpg)
+# Physical Health Page
+![Physical Health Page](./src/assets/physical.jpg)
 
+# Installation
+To run website locally:
+
+
+# To run the website locally, follow these steps:
+
+1. Clone Repo
+2. cd into 'mental' folder
+3. type npm install in console
+4. type npm run dev in console
