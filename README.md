@@ -1,8 +1,9 @@
-# React + Vite
+# Care Without Barriers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Overview
 
-Currently, two official plugins are available:
+This website aims to raise awareness about healthcare disparities, particularly in mental and physical health, and provide actionable strategies to address these issues. The site serves as an educational resource for individuals and communities, offering information on the factors contributing to health inequities and empowering users to take meaningful steps toward improving their well-being.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Homepage
+![Homepage](./src/assets/homepage.jpg)
+
