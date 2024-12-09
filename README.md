@@ -13,8 +13,7 @@ This website aims to raise awareness about healthcare disparities, particularly 
 # Physical Health Page
 ![Physical Health Page](./src/assets/physical.jpg)
 
-# Installation
-To run website locally:
+
 
 
 # To run the website locally, follow these steps:
